@@ -1,0 +1,6 @@
+name,price,in_stock
+apple,0.5,True
+banana,0.3,True
+cake,5.0,False
+milk,1.5,True
+bread,2.0,True
